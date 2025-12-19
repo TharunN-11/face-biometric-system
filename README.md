@@ -1,7 +1,6 @@
 ## Face Biometric System (Mini Project)
 
-This mini project implements a face biometric system for identifying individuals using facial recognition techniques.
-
+This project helped me understand basic computer vision concepts and Python-based application development.
 ### Technologies Used
 - Python
 - OpenCV
